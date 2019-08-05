@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592631802046",
+    "firebase_url": "https://travel-assistant-c6a4a.firebaseio.com",
+    "project_id": "travel-assistant-c6a4a",
+    "storage_bucket": "travel-assistant-c6a4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592631802046:android:64c3fb735b78c566",
+        "android_client_info": {
+          "package_name": "com.crucialtech.travelassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592631802046-mc89q6v0r86s665lqe6jdkbqb4e6erg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crucialtech.travelassistant",
+            "certificate_hash": "1e5e11b433a0597b535b57768d6ca997012068ef"
+          }
+        },
+        {
+          "client_id": "592631802046-8n7q585bsc04m0vcn5dmqmrg2d6gq9ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABH6QhflTSaPb5a3JHggvHOfO6SUsoKfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592631802046-8n7q585bsc04m0vcn5dmqmrg2d6gq9ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

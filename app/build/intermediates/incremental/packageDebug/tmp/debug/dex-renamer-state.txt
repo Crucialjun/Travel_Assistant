@@ -1,0 +1,4 @@
+#Mon Aug 05 17:32:12 EAT 2019
+base.0=/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/5be29570c7248baecf7ed43891431489/appcompat-1.0.2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
