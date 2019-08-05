@@ -7,13 +7,12 @@ INJECTED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/mai
 MERGED from [com.google.android.material:material:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/053075d24b26c7d53003184578590a89/material-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/1a45b120cc0a04a62162debb382b1134/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/15adc8b6cc52a119354dbd900bf65538/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/810e5bcd9145b66b7fd581a85b3f3d6a/jetified-firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/31d9ee38e939c6c9eb57d9869b9a94e2/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/faa38ec6a69e56edf151b4b3ef7e89ef/firebase-database-collection-16.0.0/AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/fb5890eb511e39d319df4332e14be319/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/9d51a1078da4c99f8125a0460ff9be1a/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/2b169e76464b648232e62780e8c68c42/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/d3a1a88501d900e2bb31ef8c0a984fd7/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/28fa6a58bb13f661f8051e7c0c03f321/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94bec0c8b4e01abf014b20a3850a89da/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/65ca8079e3d908666302a1d51fd21207/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -29,7 +28,6 @@ MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/crucialju
 MERGED from [androidx.customview:customview:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/553a37d8c9e3ec93273955ad34ba82d4/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/5df7856d75d414027c0acfa3ac2cf3da/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/8794b79e534ec707290a8da162610a6f/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/77960bba549f1a00ed7d721e8cec2e4b/media-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e9e576d6a7bed0a6a4921d6aad30577b/core-1.0.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/098b8275fe1cad3cdbcfa002163258cd/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/55a632ce32bb86889db51dc8ba33966f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -43,6 +41,7 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/crucialjun/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ddf2ee399be40c574a17df2895303653/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/14fe1d7bbe7388726c203012bc0746db/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/a64a07e1ae4b5cc18e13bd74c50a0700/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ce06dd61249fd332f287953c024af558/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
 INJECTED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/AndroidManifest.xml:2:1-21:12
 INJECTED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/AndroidManifest.xml:2:1-21:12
@@ -66,14 +65,18 @@ MERGED from [com.google.android.material:material:1.0.0] /home/crucialjun/.gradl
 MERGED from [com.google.android.material:material:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/053075d24b26c7d53003184578590a89/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/15adc8b6cc52a119354dbd900bf65538/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/15adc8b6cc52a119354dbd900bf65538/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/31d9ee38e939c6c9eb57d9869b9a94e2/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/31d9ee38e939c6c9eb57d9869b9a94e2/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/fb5890eb511e39d319df4332e14be319/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/fb5890eb511e39d319df4332e14be319/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/2b169e76464b648232e62780e8c68c42/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/2b169e76464b648232e62780e8c68c42/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/d3a1a88501d900e2bb31ef8c0a984fd7/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/d3a1a88501d900e2bb31ef8c0a984fd7/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e9e576d6a7bed0a6a4921d6aad30577b/core-1.0.1/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e9e576d6a7bed0a6a4921d6aad30577b/core-1.0.1/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/098b8275fe1cad3cdbcfa002163258cd/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
@@ -116,20 +119,18 @@ MERGED from [androidx.appcompat:appcompat:1.0.2] /home/crucialjun/.gradle/caches
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/1a45b120cc0a04a62162debb382b1134/appcompat-1.0.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/15adc8b6cc52a119354dbd900bf65538/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/15adc8b6cc52a119354dbd900bf65538/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/810e5bcd9145b66b7fd581a85b3f3d6a/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/810e5bcd9145b66b7fd581a85b3f3d6a/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/31d9ee38e939c6c9eb57d9869b9a94e2/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/31d9ee38e939c6c9eb57d9869b9a94e2/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/faa38ec6a69e56edf151b4b3ef7e89ef/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/faa38ec6a69e56edf151b4b3ef7e89ef/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/fb5890eb511e39d319df4332e14be319/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/fb5890eb511e39d319df4332e14be319/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/9d51a1078da4c99f8125a0460ff9be1a/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/9d51a1078da4c99f8125a0460ff9be1a/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/2b169e76464b648232e62780e8c68c42/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/2b169e76464b648232e62780e8c68c42/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/d3a1a88501d900e2bb31ef8c0a984fd7/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/d3a1a88501d900e2bb31ef8c0a984fd7/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/28fa6a58bb13f661f8051e7c0c03f321/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/28fa6a58bb13f661f8051e7c0c03f321/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94bec0c8b4e01abf014b20a3850a89da/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
@@ -160,8 +161,6 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/crucial
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/5df7856d75d414027c0acfa3ac2cf3da/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/8794b79e534ec707290a8da162610a6f/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/8794b79e534ec707290a8da162610a6f/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/77960bba549f1a00ed7d721e8cec2e4b/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/77960bba549f1a00ed7d721e8cec2e4b/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e9e576d6a7bed0a6a4921d6aad30577b/core-1.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e9e576d6a7bed0a6a4921d6aad30577b/core-1.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/098b8275fe1cad3cdbcfa002163258cd/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
@@ -188,6 +187,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/crucialjun/
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/14fe1d7bbe7388726c203012bc0746db/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/a64a07e1ae4b5cc18e13bd74c50a0700/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/a64a07e1ae4b5cc18e13bd74c50a0700/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ce06dd61249fd332f287953c024af558/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ce06dd61249fd332f287953c024af558/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
 INJECTED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/AndroidManifest.xml
 INJECTED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -199,34 +200,46 @@ INJECTED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/mai
 		ADDED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/AndroidManifest.xml
 		INJECTED from /home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-database:16.0.4] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/810e5bcd9145b66b7fd581a85b3f3d6a/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:25:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-database:16.0.4] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/810e5bcd9145b66b7fd581a85b3f3d6a/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:22-76
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:25:22-76
 uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-database:16.0.4] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/810e5bcd9145b66b7fd581a85b3f3d6a/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from [com.google.firebase:firebase-database:16.0.4] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/810e5bcd9145b66b7fd581a85b3f3d6a/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:22-64
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:26:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:29:9-35:19
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ca4cbb33ff00b5da7eef29d1be732a83/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/eabf7aa2f5696ec86a7e32d461644388/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/fb5890eb511e39d319df4332e14be319/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/fb5890eb511e39d319df4332e14be319/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/fb5890eb511e39d319df4332e14be319/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.firebase:firebase-database:18.0.1] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/94c34f45c016963b3d29eb14daacd547/firebase-database-18.0.1/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/ae890be8536e25a1f71544ea086f8800/firebase-common-18.0.0/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

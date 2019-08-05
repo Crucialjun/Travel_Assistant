@@ -60,6 +60,10 @@
         "source": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/res/merged/debug/menu_admin_activity_menu.xml.flat",
+        "source": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/res/menu/admin_activity_menu.xml"
+    },
+    {
         "merged": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
