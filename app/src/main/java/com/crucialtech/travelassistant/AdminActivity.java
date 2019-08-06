@@ -20,6 +20,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.database.DatabaseReference;
@@ -132,6 +134,20 @@ public class AdminActivity extends AppCompatActivity {
             Toast.makeText(this, "You can't delete a non-saved deal", Toast.LENGTH_LONG).show();
         } else {
             mDatabaseReference.child(deal.getId()).removeValue();
+        }
+        if(deal.getImageName() != null && !deal.getImageName().isEmpty()){
+            StorageReference picref = UtilityClass.mStorage.getReference().child(deal.getImageName());
+            picref.delete().addOnSuccessListener(new OnSuccessListener<Void>() {
+                @Override
+                public void onSuccess(Void aVoid) {
+                    Log.d("Delete Image","Image Deleted Successfully");
+                }
+            }).addOnFailureListener(new OnFailureListener() {
+                @Override
+                public void onFailure(@NonNull Exception e) {
+                    Log.d("Delete Image: ",e.getMessage());
+                }
+            });
         }
     }
 
