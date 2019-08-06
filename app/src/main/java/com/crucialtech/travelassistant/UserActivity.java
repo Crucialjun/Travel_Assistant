@@ -47,6 +47,12 @@ public class UserActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = new MenuInflater(this);
         inflater.inflate(R.menu.user_activity_menu,menu);
+        MenuItem menuItem = menu.findItem(R.id.new_travel_deal);
+        if(UtilityClass.isAdmin){
+            menuItem.setVisible(true);
+        }else{
+            menuItem.setVisible(false);
+        }
         return true;
     }
 
@@ -74,5 +80,11 @@ public class UserActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+
+    public void showMenu(){
+        invalidateOptionsMenu();
+    }
+
+
 }
 

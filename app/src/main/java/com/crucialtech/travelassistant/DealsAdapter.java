@@ -2,6 +2,8 @@ package com.crucialtech.travelassistant;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.Resources;
+import android.net.Uri;
 import android.os.Trace;
 import android.view.ContextMenu;
 import android.view.LayoutInflater;
@@ -19,6 +21,7 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
@@ -97,6 +100,7 @@ public class DealsAdapter extends RecyclerView.Adapter<DealsAdapter.DealViewHold
             tv_name = itemView.findViewById(R.id.tv_deal_name);
             tv_description = itemView.findViewById(R.id.tv_deal_description);
             tv_price = itemView.findViewById(R.id.tv_deal_price);
+            dealImage = itemView.findViewById(R.id.imageView);
             itemView.setOnClickListener(this);
         }
 
@@ -104,16 +108,27 @@ public class DealsAdapter extends RecyclerView.Adapter<DealsAdapter.DealViewHold
             tv_name.setText(deal.getTitle());
             tv_description.setText(deal.getDescription());
             tv_price.setText(deal.getPrice());
+            showImage(deal.getImageUrl());
         }
 
         @Override
         public void onClick(View v) {
-            int postion = getAdapterPosition();
-            TravelDeal dealselected = mTravelDeals.get(postion);
-            Intent intent = new Intent(v.getContext(),AdminActivity.class);
-            intent.putExtra("Deal",dealselected);
-            v.getContext().startActivity(intent);
+            if(UtilityClass.isAdmin){
+                int postion = getAdapterPosition();
+                TravelDeal dealselected = mTravelDeals.get(postion);
+                Intent intent = new Intent(v.getContext(),AdminActivity.class);
+                intent.putExtra("Deal",dealselected);
+                v.getContext().startActivity(intent);
+            }
+        }
 
+        private void showImage(String uri) {
+            if(uri != null && !uri.isEmpty()) {
+                int width = Resources.getSystem().getDisplayMetrics().widthPixels;
+                Picasso.get().load(Uri.parse(uri)).resize(160,160).centerCrop().into(dealImage);
+            }
         }
     }
+
+
 }

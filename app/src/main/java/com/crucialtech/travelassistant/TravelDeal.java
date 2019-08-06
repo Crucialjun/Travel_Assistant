@@ -3,17 +3,26 @@ package com.crucialtech.travelassistant;
 import java.io.Serializable;
 
 public class TravelDeal implements Serializable {
-    String id,title,description,price,imageUrl;
+    String id,title,description,price,imageUrl,imageName;
 
     public TravelDeal() {
     }
 
-    public TravelDeal(String id, String title, String description, String price, String imageUrl) {
+    public TravelDeal(String id, String title, String description, String price, String imageUrl,String imageName) {
         this.id = id;
         this.title = title;
         this.description = description;
         this.price = price;
         this.imageUrl = imageUrl;
+        this.imageName = imageName;
+    }
+
+    public String getImageName() {
+        return imageName;
+    }
+
+    public void setImageName(String imageName) {
+        this.imageName = imageName;
     }
 
     public String getId() {

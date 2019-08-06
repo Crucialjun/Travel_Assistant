@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Travel_Assistant\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\602a326c14839b34f502ff6f4d213621\\jetified-firebase-ui-auth-4.3.1\\res\\values-v26\\values-v26.xml",
+                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/3802f058932081f86b450672e1cdf705/jetified-firebase-ui-auth-4.3.1/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,6,10,14",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\1a45b120cc0a04a62162debb382b1134\\appcompat-1.0.2\\res\\values-v26\\values-v26.xml",
+                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/1a45b120cc0a04a62162debb382b1134/appcompat-1.0.2/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
