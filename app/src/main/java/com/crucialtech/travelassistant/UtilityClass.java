@@ -107,7 +107,7 @@ public class UtilityClass {
                         .createSignInIntentBuilder()
                         .setAvailableProviders(providers)
                         .setTheme(R.style.LoginTheme)
-                        //.setLogo(R.drawable.logo)
+                        .setLogo(R.drawable.new_logo)
                         .build(),
                 RC_SIGN_IN);
     }

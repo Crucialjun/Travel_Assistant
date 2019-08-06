@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
+            "outputFile": "F:\\Travel_Assistant\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
             "map": [
                 {
-                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/e3e82cd8e9452c935ff6733dc2e3b173/play-services-base-17.0.0/res/values-gu/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "245,351,549,672,782,979,1099,1236,1361,1568,1674,1869,1992,2194,2370,2457,2549",
-                        "endColumns": "105,197,122,109,196,119,136,124,206,105,194,122,201,175,86,91,106",
-                        "endOffsets": "350,548,671,781,978,1098,1235,1360,1567,1673,1868,1991,2193,2369,2456,2548,2655"
-                    },
-                    "to": {
-                        "startLines": "30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3094,3204,3402,3529,3643,3840,3964,4105,4440,4647,4757,4952,5079,5281,5461,5552,5648",
-                        "endColumns": "109,197,126,113,196,123,140,128,206,109,194,126,201,179,90,95,110",
-                        "endOffsets": "3199,3397,3524,3638,3835,3959,4100,4229,4642,4752,4947,5074,5276,5456,5547,5643,5754"
-                    }
-                },
-                {
-                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/693c48938937afb9b926e16a3a3df350/jetified-play-services-basement-17.0.0/res/values-gu/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "205",
-                        "endOffsets": "452"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4234",
-                        "endColumns": "205",
-                        "endOffsets": "4435"
-                    }
-                },
-                {
-                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/1a45b120cc0a04a62162debb382b1134/appcompat-1.0.2/res/values-gu/values-gu.xml",
+                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\1a45b120cc0a04a62162debb382b1134\\appcompat-1.0.2\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +21,41 @@
                     }
                 },
                 {
-                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/3802f058932081f86b450672e1cdf705/jetified-firebase-ui-auth-4.3.1/res/values-gu/values-gu.xml",
+                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\3f66f397c4c5075660d63d1beb591135\\jetified-play-services-basement-17.0.0\\res\\values-gu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "205",
+                        "endOffsets": "452"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4234",
+                        "endColumns": "205",
+                        "endOffsets": "4435"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\e9e576d6a7bed0a6a4921d6aad30577b\\core-1.0.1\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "135",
+                        "startColumns": "4",
+                        "startOffsets": "14197",
+                        "endColumns": "100",
+                        "endOffsets": "14293"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\602a326c14839b34f502ff6f4d213621\\jetified-firebase-ui-auth-4.3.1\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -72,20 +72,20 @@
                     }
                 },
                 {
-                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/e9e576d6a7bed0a6a4921d6aad30577b/core-1.0.1/res/values-gu/values-gu.xml",
+                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\e3e82cd8e9452c935ff6733dc2e3b173\\play-services-base-17.0.0\\res\\values-gu\\values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,351,549,672,782,979,1099,1236,1361,1568,1674,1869,1992,2194,2370,2457,2549",
+                        "endColumns": "105,197,122,109,196,119,136,124,206,105,194,122,201,175,86,91,106",
+                        "endOffsets": "350,548,671,781,978,1098,1235,1360,1567,1673,1868,1991,2193,2369,2456,2548,2655"
                     },
                     "to": {
-                        "startLines": "135",
-                        "startColumns": "4",
-                        "startOffsets": "14197",
-                        "endColumns": "100",
-                        "endOffsets": "14293"
+                        "startLines": "30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3094,3204,3402,3529,3643,3840,3964,4105,4440,4647,4757,4952,5079,5281,5461,5552,5648",
+                        "endColumns": "109,197,126,113,196,123,140,128,206,109,194,126,201,179,90,95,110",
+                        "endOffsets": "3199,3397,3524,3638,3835,3959,4100,4229,4642,4752,4947,5074,5276,5456,5547,5643,5754"
                     }
                 }
             ]
