@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "F:\\Travel_Assistant\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/1a45b120cc0a04a62162debb382b1134/appcompat-1.0.2/res/values-night-v8/values-night-v8.xml",
+                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\1a45b120cc0a04a62162debb382b1134\\appcompat-1.0.2\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

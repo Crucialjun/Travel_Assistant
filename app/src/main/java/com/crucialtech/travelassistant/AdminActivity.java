@@ -1,9 +1,13 @@
 package com.crucialtech.travelassistant;
 
+import android.app.ListActivity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.widget.ListAdapter;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,23 +15,38 @@ import com.google.android.material.textfield.TextInputEditText;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-public class MainActivity extends AppCompatActivity {
+public class AdminActivity extends AppCompatActivity {
     private FirebaseDatabase mFirebaseDatabase;
     private DatabaseReference mDatabaseReference;
     private TextInputEditText mDealName;
     private TextInputEditText mDealPrice;
     private TextInputEditText mDealDescription;
+    private TravelDeal deal;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mFirebaseDatabase = FirebaseDatabase.getInstance();
-        mDatabaseReference = FirebaseDatabase.getInstance().getReference().child("traveldeals");
+        //UtilityClass.openFirebaseReference("traveldeals",this);
+        mFirebaseDatabase = UtilityClass.mFirebaseDatabase;
+        mDatabaseReference = UtilityClass.mDatabaseReference;
+
+
         mDealName = findViewById(R.id.deal_name);
         mDealPrice = findViewById(R.id.deal_price);
         mDealDescription = findViewById(R.id.deal_description);
+
+        Intent intent = getIntent();
+        TravelDeal deal = (TravelDeal) intent.getSerializableExtra("Deal");
+        if(deal == null){
+            deal = new TravelDeal();
+        }
+
+        this.deal = deal;
+        mDealName.setText(deal.getTitle());
+        mDealDescription.setText(deal.getDescription());
+        mDealPrice.setText(deal.getPrice());
     }
 
     @Override
@@ -36,6 +55,11 @@ public class MainActivity extends AppCompatActivity {
             case R.id.save_deal:
                 saveDealToDatabase();
                 cleanEditTexts();
+                backToList();
+                return true;
+            case R.id.delete_deal:
+                deleteDealFromDatabase();
+                backToList();
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
@@ -60,12 +84,28 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void saveDealToDatabase() {
-        String dealName = mDealName.getText().toString();
-        String dealPrice = mDealPrice.getText().toString();
-        String dealDescription = mDealDescription.getText().toString();
+        deal.setTitle(mDealName.getText().toString());
+        deal.setDescription(mDealDescription.getText().toString());
+        deal.setPrice(mDealPrice.getText().toString());
 
-        TravelDeal travelDeal = new TravelDeal("",dealName,dealDescription,dealPrice,"");
-        mDatabaseReference.push().setValue(travelDeal);
+        if(deal.getId() == null){
+            mDatabaseReference.push().setValue(deal);
+        }else {
+            mDatabaseReference.child(deal.getId()).setValue(deal);
+        }
 
+    }
+
+    private void deleteDealFromDatabase(){
+        if(deal == null){
+            Toast.makeText(this, "You can't delete a non-saved deal", Toast.LENGTH_LONG).show();
+        }else{
+            mDatabaseReference.child(deal.getId()).removeValue();
+        }
+    }
+
+    private void backToList(){
+        Intent intent = new Intent(this, ListActivity.class);
+        startActivity(intent);
     }
 }

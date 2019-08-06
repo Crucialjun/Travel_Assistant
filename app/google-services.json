@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "592631802046-13he0v2ofmpl4aaehg1s79ad76f92t0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crucialtech.travelassistant",
+            "certificate_hash": "260ae42e9281fc1a2dbb37ce4ec7d3477e620491"
+          }
+        },
+        {
           "client_id": "592631802046-mc89q6v0r86s665lqe6jdkbqb4e6erg5.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
