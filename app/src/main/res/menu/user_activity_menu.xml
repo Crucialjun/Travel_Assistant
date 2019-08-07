@@ -4,7 +4,7 @@
     <item
         android:title="New Travel Deal"
         android:id="@+id/new_travel_deal"
-        app:showAsAction="always"
+        app:showAsAction="ifRoom"
         >
     </item>
     <item

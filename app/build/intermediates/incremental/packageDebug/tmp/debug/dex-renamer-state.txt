@@ -1,4 +1,4 @@
-#Wed Aug 07 00:31:31 EAT 2019
-base.0=F\:\\Travel_Assistant\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Wed Aug 07 10:51:21 EAT 2019
+base.0=/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

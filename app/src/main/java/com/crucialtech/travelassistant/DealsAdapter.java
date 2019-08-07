@@ -23,6 +23,8 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.squareup.picasso.Picasso;
 
+import org.fabiomsr.moneytextview.MoneyTextView;
+
 import java.util.ArrayList;
 
 
@@ -93,7 +95,8 @@ public class DealsAdapter extends RecyclerView.Adapter<DealsAdapter.DealViewHold
     }
 
     public class DealViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
-        TextView tv_name,tv_price,tv_description;
+        TextView tv_name,tv_description;
+        MoneyTextView tv_price;
         ImageView dealImage;
         public DealViewHolder(@NonNull View itemView) {
             super(itemView);
@@ -107,7 +110,7 @@ public class DealsAdapter extends RecyclerView.Adapter<DealsAdapter.DealViewHold
         public void bind(TravelDeal deal){
             tv_name.setText(deal.getTitle());
             tv_description.setText(deal.getDescription());
-            tv_price.setText(deal.getPrice());
+            tv_price.setAmount(Float.valueOf(deal.getPrice()));
             showImage(deal.getImageUrl());
         }
 

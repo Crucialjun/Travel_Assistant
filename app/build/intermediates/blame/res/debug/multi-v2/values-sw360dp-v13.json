@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Travel_Assistant\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "outputFile": "/home/crucialjun/AndroidStudioProjects/TravelAssistant/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nicholas\\.gradle\\caches\\transforms-2\\files-2.1\\602a326c14839b34f502ff6f4d213621\\jetified-firebase-ui-auth-4.3.1\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "source": "/home/crucialjun/.gradle/caches/transforms-2/files-2.1/3802f058932081f86b450672e1cdf705/jetified-firebase-ui-auth-4.3.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
